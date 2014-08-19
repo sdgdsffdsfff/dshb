@@ -1,0 +1,13 @@
+[service]
+role = backup
+state =	offline
+update_interval = 30
+
+[main]
+IP = 10.10.12.212
+interface = eth0
+
+[backup]
+IP = 10.10.12.213
+port = 5000
+interface = eth0

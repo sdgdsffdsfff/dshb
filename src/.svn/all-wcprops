@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/itms/!svn/ver/2987/ZJZY_ITMS_SCRIPT/dshb/src
+END
+install.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/itms/!svn/ver/2987/ZJZY_ITMS_SCRIPT/dshb/src/install.sh
+END
+uninstall.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/itms/!svn/ver/2987/ZJZY_ITMS_SCRIPT/dshb/src/uninstall.sh
+END
+dshb.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/itms/!svn/ver/2986/ZJZY_ITMS_SCRIPT/dshb/src/dshb.conf
+END
+dshb.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/itms/!svn/ver/2986/ZJZY_ITMS_SCRIPT/dshb/src/dshb.py
+END
